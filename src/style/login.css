@@ -1,0 +1,31 @@
+.Login-bg{
+    background-image: url(../../public//assets//images//pin_10.png);
+    background-color: #cccccc;
+    height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.form-sub-btn{
+    background-color: #776dd6;
+    padding: 10px 10px;
+    width: 100%;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    margin-top: 22px;
+    border: 1px solid #c1c1c1;
+    border-radius: 5px;
+}
+.form-bg{
+    margin-top: 162px;
+    background: rgba( 255, 255, 255, 0.3 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 7.5px );
+    -webkit-backdrop-filter: blur( 7.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    width: 100%;
+    padding: 68px;
+}
