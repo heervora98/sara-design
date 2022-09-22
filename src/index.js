@@ -8,6 +8,7 @@ import Login from "./login/index"
 import BottomNav from './navBar/BottomNav';
 import 'antd/dist/antd.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './style/public.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

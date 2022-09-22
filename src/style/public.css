@@ -1,0 +1,16 @@
+.navSearch{
+    width: 50%;
+    color: black;
+    border-radius: 5px;
+    background-color: aliceblue;
+    margin-top: 10px;
+    padding: 6px 12px;
+}
+.loader-gif{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
